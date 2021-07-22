@@ -74,7 +74,7 @@ function Login() {
           Notice
         </p>
         <button onClick={register} className="login__registerButton">
-          Create yoour Amazonn Account
+          Create your Amazonn Account
         </button>
       </div>
     </div>
